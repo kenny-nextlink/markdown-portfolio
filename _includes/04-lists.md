@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+:blush:
+- George Washington
+  - A
+- John Adams
+- Thomas Jefferson
